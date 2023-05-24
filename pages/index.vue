@@ -33,7 +33,7 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
     transition-colors duration-200 ease-in-out 
     group-hover:text-white"
     
-    ><font-awesome-icon class="w-4" :icon="['fab', 'youtube']" />
+    >
     Whatever</span>
 
     <span class="

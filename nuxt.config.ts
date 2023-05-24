@@ -15,12 +15,7 @@ export default defineNuxtConfig({
   buildModules: [
 
   ],
-  fontawesome:{
-    icons: {
-      solid:true,
-      brands:true
-    }
-  },
+
   image: {
 
   },
