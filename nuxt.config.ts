@@ -15,6 +15,12 @@ export default defineNuxtConfig({
   buildModules: [
 
   ],
+  fontawesome:{
+    icons: {
+      solid:true,
+      brands:true
+    }
+  },
   image: {
 
   },
@@ -32,5 +38,6 @@ export default defineNuxtConfig({
     ],
         link: [
       { rel: 'icon', type: 'image/x-icon', href: '/public/favicon.ico' }    ],
+
   },
 });

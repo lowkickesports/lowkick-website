@@ -14,14 +14,15 @@ module.exports = {
     themes: [
       {
         main: {
-          primary: "#E31C38",
-          secondary: "#A31427",
-          accent: "#059DE3",
-          neutral: "#630C18",
-          "base-100": "#2D060F",
+          primary: "#36A2D3",
+          secondary: "#156BA8",
+          accent: "#DA4344",
+          neutral: "#C33038",
+          "base-100": "#16142E",
+          "base-200": "#410028",
           info: "#ffff",
           warning: "#E3DC32",
-          error: "#F04911",
+          error: "#F2600C",
         },
       },
     ],
