@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         bebas: ['bebas-neue-pro', 'sans-serif'],
+        prohibition: ['prohibition', 'sans-serif'],
       },
     },
   },
