@@ -1,6 +1,9 @@
 <template>
+    <Head>
+    <Title>Contact Low Kick Esports</Title>
+  </Head>
 <section class="">
-    <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
+    <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-sm">
         <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-white">Contact Us</h2>
         <p class="mb-8 lg:mb-16 font-light text-center text-white sm:text-xl">If you're interested in working with us you or renting equipment, you can contact us here!</p>
         <form name="contact" class="space-y-8" data-netlify="true" action="/thankyou">
