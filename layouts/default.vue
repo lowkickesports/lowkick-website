@@ -1,19 +1,10 @@
+<script lang="ts" setup></script>
+
 <template>
-    <div class="relative">
-        <!-- <NavBar /> -->
-
-        <slot class="bg-black" />
-
-        <!-- <Footer /> -->
-    </div>
+  <div> 
+    <Header/>
+    <slot />
+  </div>
 </template>
 
-<style>
-hmtl{
-    background-color: black;
-}
-</style>
-
-<script setup lang="ts">
-
-</script>
+<style scoped></style>
