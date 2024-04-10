@@ -19,7 +19,7 @@ text-left text-error text-center justify-center
 transition-colors duration-200 ease-in-out py-2 tracking-wide
 group-hover:text-white fill-white "
 
-><img src="~/assets/rh23logo.png" class="w-8"/>
+><img src="~/assets/rhtaglogo.png" class="w-8"/>
 <p class="tracking-wide font-bold pl-2 pt-1">Register for RoundHouse Tag</p></span>
 
 <span class="
