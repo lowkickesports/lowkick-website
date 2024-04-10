@@ -4,7 +4,7 @@
       class="flex flex-col w-full justify-start align-middle m-auto space-y-11"
     >
 
-    <NuxtLink to="https://www.start.gg/rh23" target="blank" class="font-light relative flex flex items-center justify-center m-auto px-5 py-3 overflow-hidden font-bold rounded-md group w-[325px] sm:w-[325px] md:w-96 lg:w-[505px] xl:w-[505px] 2xl:w-[505px]">
+    <NuxtLink to="https://www.start.gg/rhtag" target="blank" class="font-light relative flex flex items-center justify-center m-auto px-5 py-3 overflow-hidden font-bold rounded-md group w-[325px] sm:w-[325px] md:w-96 lg:w-[505px] xl:w-[505px] 2xl:w-[505px]">
 
 <span class="
   absolute top-0 left-0 w-[1000px] h-[600px] -mt-1 
@@ -20,7 +20,7 @@ transition-colors duration-200 ease-in-out py-2 tracking-wide
 group-hover:text-white fill-white "
 
 ><img src="~/assets/rh23logo.png" class="w-8"/>
-<p class="tracking-wide font-bold pl-2 pt-1">Register for RoundHouse</p></span>
+<p class="tracking-wide font-bold pl-2 pt-1">Register for RoundHouse Tag</p></span>
 
 <span class="
 absolute inset-0 
