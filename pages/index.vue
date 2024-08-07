@@ -4,6 +4,32 @@
       class="flex flex-col w-full justify-start align-middle m-auto space-y-11"
     >
 
+    <NuxtLink to="https://www.start.gg/rh24" target="blank" class="font-light relative flex flex items-center justify-center m-auto px-5 py-3 overflow-hidden font-bold rounded-md group w-[325px] sm:w-[325px] md:w-96 lg:w-[505px] xl:w-[505px] 2xl:w-[505px]">
+
+<span class="
+  absolute top-0 left-0 w-[1000px] h-[600px] -mt-1 
+  transition-all duration-700 ease-in-out rotate-45 -translate-x-[800px] -translate-y-28 
+  bg-base-200 opacity-100 
+  group-hover:-translate-x-8">
+</span>
+
+<span class="
+relative w-full group flex align-middle
+text-left text-error text-center justify-center
+transition-colors duration-200 ease-in-out py-2 tracking-wide
+group-hover:text-white fill-white "
+
+><img src="~/assets/RHLogo.png" class="w-8"/>
+<p class="tracking-wide font-bold pl-2 pt-1">Register for RoundHouse 2024</p></span>
+
+<span class="
+absolute inset-0 
+border-2 border-error rounded-md">
+</span>
+</NuxtLink>
+
+
+
       <NuxtLink to="https://www.youtube.com/lowkickesports" target="blank" class="relative font-light flex flex items-center justify-center m-auto px-5 py-3 overflow-hidden font-bold rounded-md group w-[325px] sm:w-[325px] md:w-96 lg:w-[505px] xl:w-[505px] 2xl:w-[505px]">
 
     <span class="
